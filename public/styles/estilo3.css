@@ -1,0 +1,22 @@
+h1{
+    text-align: center;
+    color: black;
+}
+
+h2{
+    text-align: center;
+    color: teal;
+}
+
+h3{
+   color: grey;
+}
+
+p{
+    color: black;
+
+}
+
+body{
+   background-color: azure;
+}
